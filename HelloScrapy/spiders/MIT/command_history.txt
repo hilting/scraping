@@ -1,0 +1,1000 @@
+ 1026  cd
+ 1027  jupyter notebook
+ 1028  pyenv local "3.5.2"
+ 1029  jupyter notebook
+ 1030  la
+ 1031  vim .jupyter/
+ 1032  ls
+ 1033  cd Webapplication/public_html/
+ 1034  ls
+ 1035  whois
+ 1036  whois -h
+ 1037  whois index.html 
+ 1038  e
+ 1039  ls
+ 1040  cd Webapplication/
+ 1041  ls
+ 1042  cd public_html/
+ 1043  ls
+ 1044  python -m app.cgi --cgi
+ 1045  php -S Webapplication
+ 1046  php -S 104.198.123.228
+ 1047  python -m app.cgi --cgi
+ 1048  python -m http.server --cgi
+ 1049  pyenv l
+ 1050  pyenv 
+ 1051  pyenv version
+ 1052  pyenv shell
+ 1053  pyenv 
+ 1054  pyenv local "2.7.8"
+ 1055  python -m CGIHTTPServer
+ 1056  ls
+ 1057  pyenv local "3.5.2"
+ 1058  python -m CGIHTTPServer
+ 1059  python -m http.server --cgi
+ 1060  python -m http.server --cgi
+ 1061  ls
+ 1062  cd Webapplication/
+ 1063  ls
+ 1064  cd public_html/
+ 1065  ls
+ 1066  cd
+ 1067  ls
+ 1068  cd Webapplication/
+ 1069  ls
+ 1070  mv public_html/ ./..
+ 1071  ls
+ 1072  cd
+ 1073  ls
+ 1074  rm Webapplication/
+ 1075  rmdir Webapplication/
+ 1076  ls
+ 1077  mkdir Webapp
+ 1078  ls
+ 1079  mv public_html/ Webapp/
+ 1080  cd Webapp/
+ 1081  cd public_html/
+ 1082  ls
+ 1083  python -m http.server --cgi
+ 1084  ls
+ 1085  cd wired/
+ 1086  ls
+ 1087  cd HelloScrapy/spiders/
+ 1088  ls
+ 1089  vim *.txt
+ 1090  ls
+ 1091  vim articlehbr.txt 
+ 1092  vim a.txt 
+ 1093  vim b.txt 
+ 1094  mkdir nounfrequencies
+ 1095  *.txt nounfrequencies/
+ 1096  ls
+ 1097  mv *.txt nounfrequencies/
+ 1098  ls
+ 1099  cd txt/
+ 1100  ls
+ 1101  vim hbrjp_wordcount.txt 
+ 1102  cd ..
+ 1103  ls
+ 1104  mkdir Wired
+ 1105  mv wir* Wired/
+ 1106  ls
+ 1107  cd Wired/
+ 1108  ls
+ 1109  scrapy crawl wired
+ 1110  ls
+ 1111  vim wired.py 
+ 1112  cd ..
+ 1113  ls
+ 1114  vim __init__.py 
+ 1115  cp __init__.py Wired/
+ 1116  ls
+ 1117  cd Wired/
+ 1118  ls
+ 1119  scrapy crawl wired
+ 1120  ls
+ 1121  cd ..
+ 1122  ls
+ 1123  mkdir HBR
+ 1124  mv hbr* HBR/
+ 1125  ls
+ 1126  cd __pycache__/
+ 1127  ls
+ 1128  vim *
+ 1129  cd ..
+ 1130  ls
+ 1131  mv Wired/ WIRED
+ 1132  ls
+ 1133  l
+ 1134  ls
+ 1135  cp __init__.py HBR/
+ 1136  ls
+ 1137  cd HBR/
+ 1138  ls
+ 1139  scrapy crawl hbr
+ 1140  ls
+ 1141  vim hbr.py 
+ 1142  cd
+ 1143  ls
+ 1144  vim HelloScrapy/HelloScrapy/spiders/axa.py 
+ 1145  grep "title"
+ 1146  man grep
+ 1147  grep "title" *
+ 1148  ls
+ 1149  cd others/
+ 1150  ls
+ 1151  cd axa/newproject/spiders/
+ 1152  ls
+ 1153  grep "title" *
+ 1154  grep "title" *.py
+ 1155  cd ../../..
+ 1156  ls
+ 1157  cd tutorial/tutorial/spiders/
+ 1158  grep "title" *.py
+ 1159  ls
+ 1160  vim quotes_spider.py 
+ 1161  cd
+ 1162  ls
+ 1163  cd wired/HelloScrapy/spiders/WIRED
+ 1164  ls
+ 1165  vim wired.py 
+ 1166  scrapy crawl wired
+ 1167  ls
+ 1168  vim wiredjp.py 
+ 1169  scrapy crawl wired
+ 1170  scrapy crawl wiredjp.py 
+ 1171  scrapy crawl wiredjp
+ 1172  vim wiredjp.py 
+ 1173  scrapy crawl wiredjp
+ 1174  vim wiredjp.py 
+ 1175  scrapy crawl wiredjp
+ 1176  vim wiredjp.py 
+ 1177  scrapy crawl wiredjp
+ 1178  vim wiredjp.py 
+ 1179  scrapy crawl wiredjp
+ 1180  vim wiredjp.py 
+ 1181  scrapy crawl wiredjp
+ 1182  vim wiredjp.py 
+ 1183  scrapy crawl wiredjp
+ 1184  vim wiredjp.py 
+ 1185  scrapy crawl wiredjp
+ 1186  vim wiredjp.py 
+ 1187  scrapy crawl wiredjp
+ 1188  vim wiredjp.py 
+ 1189  scrapy crawl wiredjp
+ 1190  vim wiredjp.py 
+ 1191  scrapy crawl wiredjp
+ 1192  vim wiredjp.py
+ 1193  scrapy crawl wiredjp
+ 1194  vim wiredjp.py
+ 1195  scrapy crawl wiredjp
+ 1196  vim wiredjp.py
+ 1197  scrapy crawl wiredjp
+ 1198  vim wiredjp.py
+ 1199  scrapy crawl wiredjp
+ 1200  vim wiredjp.py
+ 1201  scrapy crawl wiredjp
+ 1202  vim wiredjp.py
+ 1203  scrapy crawl wiredjp
+ 1204  vim wiredjp.py
+ 1205  scrapy crawl wiredjp
+ 1206  vim wiredjp.py
+ 1207  scrapy crawl wiredjp
+ 1208  vim wiredjp.py
+ 1209  scrapy crawl wiredjp
+ 1210  vim wiredjp.py
+ 1211  scrapy crawl wiredjp
+ 1212  vim wiredjp.py
+ 1213  scrapy crawl wiredjp
+ 1214  vim wiredjp.py
+ 1215  scrapy crawl wiredjp
+ 1216  vim wiredjp.py
+ 1217  scrapy crawl wiredjp
+ 1218  vim wiredjp.py
+ 1219  scrapy crawl wiredjp
+ 1220  vim wiredjp.py
+ 1221  scrapy crawl wiredjp
+ 1222  vim wiredjp.py
+ 1223  scrapy crawl wiredjp
+ 1224  vim wiredjp.py
+ 1225  scrapy crawl wiredjp
+ 1226  vim wiredjp.py
+ 1227  scrapy crawl wiredjp
+ 1228  vim wiredjp.py
+ 1229  scrapy crawl wiredjp
+ 1230  vim wiredjp.py
+ 1231  scrapy crawl wiredjp
+ 1232  vim wiredjp.py
+ 1233  scrapy crawl wiredjp
+ 1234  ls
+ 1235  mv wir* ./..
+ 1236  ls
+ 1237  cd ..
+ 1238  ls
+ 1239  scrapy crawl wiredjp
+ 1240  ls
+ 1241  cd WIRED/
+ 1242  ls
+ 1243  cd..
+ 1244  cd ..
+ 1245  ls
+ 1246  cd HBR/
+ 1247  ls
+ 1248  vim hbr.py 
+ 1249  scrapy crawl hbr
+ 1250  ls
+ 1251  cd ..
+ 1252  s
+ 1253  cd ..
+ 1254  ls
+ 1255  cd ..
+ 1256  ls
+ 1257  cd
+ 1258  cd wired/HelloScrapy/spiders/
+ 1259  ls
+ 1260  mv wir* WIRED/
+ 1261  ls
+ 1262  cd WIRED/
+ 1263  ls
+ 1264  scrapy crawl wired
+ 1265  vim wired.py 
+ 1266  vim wiredjp.py 
+ 1267  vim wired.py 
+ 1268  scrapy crawl wiredjp
+ 1269  vim wired.py 
+ 1270  vim wiredjp.py 
+ 1271  vim wired.py 
+ 1272  scrapy crawl wiredjp
+ 1273  scrapy crawl wiredjp > wiredjp_title.txt
+ 1274  mecab wiredjp_title.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -
+ 1275  mecab wiredjp_title.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -
+ 1276  mecab wiredjp_title.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1277  vim wiredjp.py 
+ 1278  mecab wiredjp_title.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1279  scrapy crawl wiredjp
+ 1280  scrapy crawl wiredjp > wiredjp_title.txt
+ 1281  mecab wiredjp_title.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1282  vim wiredjp.py 
+ 1283  scrapy crawl wiredjp > wiredjp_title.txt
+ 1284  mecab wiredjp_title.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1285  mecab wiredjp_title.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1286  ls
+ 1287  cd ..
+ 1288  ls
+ 1289  cd HBR/
+ 1290  ls
+ 1291  vim hbrjp.py 
+ 1292  scrapy crawl hbrjp
+ 1293  scrapy crawl hbrjp > hbrjp_title.txt
+ 1294  mecab hbrjp_title.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1295  ls
+ 1296  mecab hbrjp_title.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1297  ls
+ 1298  vim hbrjp
+ 1299  vim hbrjp.py 
+ 1300  mecab hbrjp_title.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -nls
+ 1301  ls
+ 1302  cd ..
+ 1303  ls
+ 1304  cd txt/
+ 1305  ls
+ 1306  vim hbrjp_important.txt 
+ 1307  ls
+ 1308  cd ..
+ 1309  ls
+ 1310  cd HBR/
+ 1311  ls
+ 1312  vim hbrjp_title.txt 
+ 1313  vim hbrjp.py 
+ 1314  ls
+ 1315  cd
+ 1316  l
+ 1317  cd Webapplication/
+ 1318  ls
+ 1319  mkdir public_html
+ 1320  cd public_html/
+ 1321  vim index.html
+ 1322  ls
+ 1323  vim app.cgi
+ 1324  ./app.cgi
+ 1325  ls
+ 1326  l
+ 1327  ll
+ 1328  chmod 644 app.cgi 
+ 1329  ls
+ 1330  ll
+ 1331  ./app.cgi
+ 1332  top
+ 1333  ls
+ 1334  cd
+ 1335  cd Webapp/public_html/
+ 1336  ls
+ 1337  python -m http.server --cgi
+ 1338  ls
+ 1339  cd Webapp/public_html/
+ 1340  ls
+ 1341  vim index.html 
+ 1342  vim app.cgi 
+ 1343  ./app.cgi
+ 1344  vim app.cgi 
+ 1345  chmod u+x app.cgi 
+ 1346  la
+ 1347  ll
+ 1348  ./app.cgi 
+ 1349  vim app.cgi 
+ 1350  ./app.cgi 
+ 1351  vim app.cgi 
+ 1352  ./app.cgi 
+ 1353  vim app.cgi 
+ 1354  ./app.cgi 
+ 1355  vim app.cgi 
+ 1356  ls
+ 1357  cd
+ 1358  ls
+ 1359  cd Webapp/public_html/cgi-bin/
+ 1360  ls
+ 1361  vim test.cgi 
+ 1362  ./test.cgi 
+ 1363  vim test.cgi 
+ 1364  ./test.cgi 
+ 1365  ls
+ 1366  rm test.py~ 
+ 1367  ls
+ 1368  vim test.cgi 
+ 1369  ls
+ 1370  cd
+ 1371  ls
+ 1372  cd Webapp/public_html/cgi-bin/
+ 1373  ls
+ 1374  mv test.cgi test.py
+ 1375  ls
+ 1376  l
+ 1377  ls
+ 1378  vim test.py 
+ 1379  ./test.py 
+ 1380  vim test.py 
+ 1381  ./test.py 
+ 1382  ls
+ 1383  cd ..
+ 1384  ls
+ 1385  cd ..
+ 1386  ls
+ 1387  cd ..
+ 1388  ls
+ 1389  cd wired/HelloScrapy/spiders/
+ 1390  ls
+ 1391  cd HBR/
+ 1392  ls
+ 1393  vim hbrjp_title.txt 
+ 1394  mecab hbrjp_title.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -nls
+ 1395  mecab hbrjp_title.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1396  :q
+ 1397  ls
+ 1398  vim hbrjp.py 
+ 1399  scrapy crawl hbrjp.py
+ 1400  scrapy crawl hbrjp
+ 1401  vim hbrjp.py 
+ 1402  scrapy crawl hbrjp
+ 1403  vim hbrjp.py 
+ 1404  scrapy crawl hbrjp
+ 1405  ls
+ 1406  vim hbrjp.py 
+ 1407  scrapy crawl hbrjp > hbrjp_title.txt 
+ 1408  ls
+ 1409  vim hbrjp_title.txt 
+ 1410  mecab hbrjp_title.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1411  mecab hbrjp_title.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n > hbrjp_p_text_mecab.txt
+ 1412  mv hbrjp_title.txt  hbrjp_p_text.txt
+ 1413  ls
+ 1414  vim hbrjp_p_text_mecab.txt 
+ 1415  vim hbrjp.py 
+ 1416  ls
+ 1417  cp hbrjp.py ../mitjp.py
+ 1418  cd ..
+ 1419  ls
+ 1420  mkdir MIT
+ 1421  mv mitjp.py MIT/
+ 1422  cp __init__.py  MIT/
+ 1423  cd MIT/
+ 1424  ls
+ 1425  vim mitjp.py 
+ 1426  scrapy crawl mitjp
+ 1427  ls
+ 1428  vim mitjp.py 
+ 1429  scrapy crawl mitjp
+ 1430  scrapy crawl mitjp > mitjp_p_text.txt
+ 1431  mecab mitjp_p_text.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n > mitjp_p_text_mecab.txt
+ 1432  vim mitjp_p_text_mecab.txt 
+ 1433  mecab mitjp_p_text.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n > mitjp_p_text_mecab.txt
+ 1434  vim mitjp_p_text_mecab.txt 
+ 1435  ls
+ 1436  vim mitjp.py 
+ 1437  scrapy crawl mitjp
+ 1438  scrapy shell "https://www.technologyreview.jp/s/33016/how-deepminds-memory-trick-helps-ai-solve-new-problems/"
+ 1439  ls
+ 1440  vim mitjp.py 
+ 1441  scrapy shell "https://www.technologyreview.jp/s/33016/how-deepminds-memory-trick-helps-ai-solve-new-problems/"
+ 1442  ls
+ 1443  vim mitjp.py 
+ 1444  scrapy crawl mitjp > mitjp_p_text2.txt
+ 1445  ls
+ 1446  mecab mitjp_p_text2.txt|grep "名詞||cut -f 1|sort|uniq -c|sort -r -n > mitjp_p_text_mecab2.txt
+ 1447  la
+ 1448  ls
+ 1449  mecab mitjp_p_text2.txt|grep "名詞|cut -f 1|sort|uniq -c|sort -r -n > mitjp_p_text_mecab2.txt
+ 1450  mecab mitjp_p_text2.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1451  vim mitjp_p_text2.txt 
+ 1452  mecab mitjp_p_text2.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n > mitjp_p_text_mecab2.txt
+ 1453  ls
+ 1454  vim mitjp_p_text_mecab2.txt 
+ 1455  mecab mitjp_p_text2.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n > mitjp_p_text_mecab2.txt
+ 1456  vim mitjp_p_text_mecab2.txt 
+ 1457  mecab mitjp_p_text2.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n > mitjp_p_text_mecab2.txt
+ 1458  vim mitjp_p_text_mecab2.txt 
+ 1459  ls
+ 1460  cd wired/HelloScrapy/spiders/HBR/
+ 1461  ls
+ 1462  vim hbr.py 
+ 1463  scrapy crawl hbr
+ 1464  hbr_p_text.txt
+ 1465  ls
+ 1466  mecab hbr_p_text.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1467  mecab hbr_p_text.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n >hbr_p_text_mecab.txt 
+ 1468  vim hbr_p_text_mecab.txt 
+ 1469  mecab hbr_p_text.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n >hbr_p_text_mecab.txt 
+ 1470  vim hbr_p_text_mecab.txt 
+ 1471  ls
+ 1472  vim hbrjp_p_text_mecab.txt 
+ 1473  ls
+ 1474  cd
+ 1475  ls
+ 1476  cd wired/HelloScrapy/spiders/MIT/
+ 1477  ls
+ 1478  vim mitjp_p_text_mecab.txt 
+ 1479  ls
+ 1480  cd wired/HelloScrapy/spiders/WIRED/
+ 1481  ls
+ 1482  vim wiredjp.py 
+ 1483  scrapy crawl wiredjp
+ 1484  vim wiredjp.py 
+ 1485  scrapy crawl wiredjp
+ 1486  scrapy crawl wiredjp > wired_p_text.txt
+ 1487  ls
+ 1488  vim wired_p_text.txt 
+ 1489  mecab wired_p_text.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1490  mecab wired_p_text.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n > wired_p_text_mecab.txt
+ 1491  vim wired_p_text_mecab.txt 
+ 1492  mecab wired_p_text.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n > wired_p_text_mecab.txt
+ 1493  vim wired_p_text_mecab.txt 
+ 1494  vim wiredjp.py 
+ 1495  vim wired_p_text_mecab.txt 
+ 1496  vim wiredjp.py 
+ 1497  vim wired_p_text_mecab.txt 
+ 1498  ls
+ 1499  cd Webapp/public_html/
+ 1500  ls
+ 1501  mkdir cgi-bin
+ 1502  mv app.cgi cgi-bin/
+ 1503  ls
+ 1504  c cgi-bin/app.cgi 
+ 1505  ls
+ 1506  cd cgi-bin/
+ 1507  ls
+ 1508  mv app.cgi test.py
+ 1509  python -m http.server --cgi
+ 1510  cd ../
+ 1511  python -m http.server --cgi
+ 1512  ls
+ 1513  emacs cgi-bin/test.py 
+ 1514  echo $PATH
+ 1515  which python
+ 1516  emacs cgi-bin/test.py 
+ 1517  python -m http.server --cgi
+ 1518  ls
+ 1519  mv index.html ../
+ 1520  python -m http.server --cgi
+ 1521  ls
+ 1522  cd cgi-bin/
+ 1523  ls
+ 1524  cd ../
+ 1525  python -m http.server --cgi
+ 1526  emacs cgiserver.py
+ 1527  python cgiserver.py 
+ 1528  ls -l
+ 1529  cd cgi-bin/
+ 1530  ls
+ 1531  ls -l
+ 1532  chmod a+rwx test.py
+ 1533  ls -l
+ 1534  cd ../
+ 1535  python cgiserver.py 
+ 1536  cd cgi-bin/
+ 1537  file test.py
+ 1538  emacs test.py
+ 1539  cd ../
+ 1540  python cgiserver.py 
+ 1541  cd cgi-bin/
+ 1542  emacs test.py
+ 1543  cd ../
+ 1544  python cgiserver.py 
+ 1545  echo $PATH
+ 1546  emacs cgi-bin/test.py
+ 1547  python cgiserver.py 
+ 1548  which python
+ 1549  python -m http.server --cgi
+ 1550  ls
+ 1551  cd cgi-bin/
+ 1552  ls
+ 1553  mv test.py test.cgi
+ 1554  ls
+ 1555  cd ..
+ 1556  ls
+ 1557  python -m http.server --cgi
+ 1558  ls
+ 1559  cd cgi-bin/
+ 1560  ls
+ 1561  ./test.cgi 
+ 1562  lsls
+ 1563  ls
+ 1564  cd ..
+ 1565  ls
+ 1566  python -m http.server --cgi
+ 1567  ls
+ 1568  python -m http.server --cgi
+ 1569  ls
+ 1570  python -m http.server --cgi
+ 1571  ls
+ 1572  cd Webapp/public_html/
+ 1573  ls
+ 1574  cd cgi-bin/
+ 1575  ls
+ 1576  vim test.py 
+ 1577  history
+ 1578  python -m http.server --cgi
+ 1579  ls
+ 1580  vim test.py 
+ 1581  mv test.py test.cgi
+ 1582  ls
+ 1583  python -m http.server --cgi
+ 1584  ls
+ 1585  vim test.cgi 
+ 1586  ./test.cgi 
+ 1587  vim test.cgi 
+ 1588  ./test.cgi 
+ 1589  python -m http.server --cgi
+ 1590  ls
+ 1591  vim test.cgi 
+ 1592  ./test.cgi 
+ 1593  python -m http.server --cgi
+ 1594  vim test.cgi 
+ 1595  pyenv
+ 1596  pyenv local
+ 1597  ./test.cgi 
+ 1598  vim test.cgi 
+ 1599  which python
+ 1600  vim test.cgi 
+ 1601  python -m http.server --cgi
+ 1602  ls
+ 1603  cd ..
+ 1604  ls
+ 1605  vim cgiserver.py 
+ 1606  vim .htaccess
+ 1607  source .htaccess 
+ 1608  ls
+ 1609  cd cgi-bin/
+ 1610  ls
+ 1611  python -m http.server --cgi
+ 1612  ls
+ 1613  cd ..
+ 1614  ls
+ 1615  vim .htaccess 
+ 1616  python -m http.server --cgi
+ 1617  ls
+ 1618  cd cgi-bin/
+ 1619  ls
+ 1620  python -m http.server --cgi
+ 1621  apache
+ 1622  apache2
+ 1623  ls
+ 1624  find */apache
+ 1625  find */apache2
+ 1626  find /*/apache2
+ 1627  ls
+ 1628  cd /etc/apache2/
+ 1629  ls
+ 1630  cd
+ 1631  cd /etc/
+ 1632  cd hp/
+ 1633  ls
+ 1634  cd ..
+ 1635  l
+ 1636  find /*/httpd
+ 1637  find /*/http
+ 1638  find /*/httpd.conf
+ 1639  find /*httpd.conf
+ 1640  find /*/cgi-bin
+ 1641  find /*/*/cgi-bin
+ 1642  find /*/*/apache
+ 1643  find /apache2
+ 1644  ls
+ 1645  cd
+ 1646  ls
+ 1647  cd Webapp/
+ 1648  ls
+ 1649  cd public_html/cgi-bin/
+ 1650  ls
+ 1651  python -m http.server --cgi
+ 1652  ls
+ 1653  vim test.cgi 
+ 1654  ls
+ 1655  ls -l
+ 1656  ls
+ 1657  vim test.cgi 
+ 1658  ls
+ 1659  python -m http.server --cgi
+ 1660  vim test.cgi 
+ 1661  ls -a
+ 1662  vim .htaccess
+ 1663  la
+ 1664  l
+ 1665  la
+ 1666  python -m http.server --cgi
+ 1667  ls
+ 1668  l
+ 1669  la
+ 1670  vim test.cgi 
+ 1671  vim .htaccess 
+ 1672  ls
+ 1673  cd
+ 1674  ls
+ 1675  cd /etc/apache2/
+ 1676  ls
+ 1677  vim apache2.conf 
+ 1678  ls
+ 1679  vim apache2.conf 
+ 1680  ls
+ 1681  la
+ 1682  ls -a
+ 1683  ls -l
+ 1684  chmod 644 apache2.conf 
+ 1685  sudo chmod 644 apache2.conf 
+ 1686  ls
+ 1687  ls -l
+ 1688  sudo chmod 644 apache2.conf 
+ 1689  ls -l
+ 1690  sudo chmod 755 apache2.conf 
+ 1691  ls -l
+ 1692  vim apache2.conf 
+ 1693  ls
+ 1694  cd /etc/apache2/
+ 1695  ls
+ 1696  ps aux
+ 1697  ps aux|grep httpd
+ 1698  ps aux|grep apache2
+ 1699  httpd -V
+ 1700  ls
+ 1701  cd conf-available/
+ 1702  ls
+ 1703  cd ..
+ 1704  ls
+ 1705  cd conf-enabled/
+ 1706  ls
+ 1707  cd ..
+ 1708  ls
+ 1709  find */http.conf
+ 1710  ls mods-enabled/
+ 1711  ls mods-available/
+ 1712  ls
+ 1713  ls sites-available/
+ 1714  ls
+ 1715  ls sites-enabled/
+ 1716  ls sites-enabled/wsgi.conf 
+ 1717  ls
+ 1718  cd ..
+ 1719  ls
+ 1720  cd apache2/
+ 1721  ls
+ 1722  cd ..
+ 1723  cd ap
+ 1724  cd apache2/
+ 1725  ls
+ 1726  vim apache2.conf 
+ 1727  ls
+ 1728  cd 
+ 1729  cd ..
+ 1730  ls
+ 1731  cd ..
+ 1732  ls
+ 1733  cd etc/apache2/
+ 1734  ls
+ 1735  vim apache2.conf 
+ 1736  cd
+ 1737  ls
+ 1738  cd Webapp/public_html/
+ 1739  ls
+ 1740  cd cgi-bin/
+ 1741  ls
+ 1742  la
+ 1743  vim httpd.conf
+ 1744  a2enmod cgi
+ 1745  ls
+ 1746  vim test.cgi 
+ 1747  ls
+ 1748  cd ..
+ 1749  ls
+ 1750  la
+ 1751  ll
+ 1752  chmod 755 .htaccess 
+ 1753  ls
+ 1754  cd cgi-bin/
+ 1755  ls
+ 1756  la
+ 1757  ll
+ 1758  chmod 755 .htaccess 
+ 1759  ls
+ 1760  chmod 755 httpd.conf 
+ 1761  ls
+ 1762  ls
+ 1763  cd wired/
+ 1764  ls
+ 1765  cd HelloScrapy/
+ 1766  ls
+ 1767  cd spiders/
+ 1768  ls
+ 1769  cd MIT/
+ 1770  ls
+ 1771  cat mitjp_p_text_mecab2.txt 
+ 1772  vim mitjp_p_text_mecab2.txt 
+ 1773  vim mitjp_p_text_mecab.txt 
+ 1774  ls
+ 1775  vim mitjp_p_text.txt 
+ 1776  vim mitjp_p_text2.txt 
+ 1777  vim mitjp.py 
+ 1778  scrapy crawl mitjp
+ 1779  vim mitjp.py 
+ 1780  scrapy crawl mitjp
+ 1781  ls
+ 1782  scrapy crawl mitjp
+ 1783  vim mitjp.py 
+ 1784  scrapy crawl mitjp
+ 1785  vim mitjp.py 
+ 1786  scrapy crawl mitjp
+ 1787  scrapy crawl mitjp >> new_technology_article.txt
+ 1788  mecab new_technology_article.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1789  mecab new_technology_article.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n
+ 1790  mecab new_technology_article.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n > tmp.txt
+ 1791  vim tmp.txt 
+ 1792  ls
+ 1793  cd Webapp/public_html/
+ 1794  ls
+ 1795  cd cgi-bin/
+ 1796  ls
+ 1797  python -m http.server --cgi
+ 1798  ls
+ 1799  vim test.cgi 
+ 1800  ./test.cgi 
+ 1801  vim test.cgi 
+ 1802  ll
+ 1803  cd ..
+ 1804  755 ./cgi-bin/
+ 1805  python -m http.server --cgi
+ 1806  ls
+ 1807  python -m http.server --cgi
+ 1808  l
+ 1809  cd cgi-bin/
+ 1810  ls
+ 1811  python -m http.server --cgi
+ 1812  ls
+ 1813  cd /etc/apache2/
+ 1814  ls
+ 1815  sudo vim apache2.conf 
+ 1816  ls
+ 1817  cd
+ 1818  ls
+ 1819  cd Webapp/public_html/
+ 1820  ls
+ 1821  cd cgi-bin/
+ 1822  ls
+ 1823  cd
+ 1824  cd /etc/
+ 1825  ls
+ 1826  cd apache2/
+ 1827  ls
+ 1828  vim apache2.conf 
+ 1829  ls
+ 1830  cd
+ 1831  ls
+ 1832  cd Webapp/public_html/cgi-bin/
+ 1833  ls
+ 1834  python -m http.server --cgi
+ 1835  ls
+ 1836  vim test.cgi 
+ 1837  ls
+ 1838  cd Webapp/public_html/
+ 1839  ls
+ 1840  cd cgi-bin/
+ 1841  ls
+ 1842  python -m http.server --cgi
+ 1843  ls
+ 1844  gcloud auth login
+ 1845  pyenv
+ 1846  pyenv 2.7.8
+ 1847  pyenv local 2.7.8
+ 1848  pyenv version
+ 1849  gcloud auth login
+ 1850  ls
+ 1851  gcloud config set project tensorflow-playground
+ 1852  bq help p
+ 1853  bq help
+ 1854  bq ls
+ 1855  bq ls dataset_sample
+ 1856  bq ls temp
+ 1857  ls
+ 1858  cd Webapp/public_html/
+ 1859  ls
+ 1860  cd cgi-bin/
+ 1861  ls
+ 1862  vim test.cgi 
+ 1863  ls
+ 1864  jupyter notebook
+ 1865  pyenv local 3.5.2
+ 1866  jupyter notebook
+ 1867  ls
+ 1868  ll
+ 1869  ls
+ 1870  cd
+ 1871  ls
+ 1872  cd wired/HelloScrapy/spiders/
+ 1873  ls
+ 1874  cd MIT
+ 1875  ls
+ 1876  vim tmp.txt 
+ 1877  vim mitjp.py 
+ 1878  scrapy crawl mitjp
+ 1879  ls
+ 1880  scrapy crawl mitjp >tmp2.txt
+ 1881  mecab tmp2.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n > tmp2m.txt
+ 1882  vim tmp2m.txt 
+ 1883  vim mitjp.py 
+ 1884  scrapy crawl mitjp >full.txt
+ 1885  ls
+ 1886  cd wired/HelloScrapy/spiders/
+ 1887  ls
+ 1888  cd MIT/
+ 1889  ls
+ 1890  cd ..
+ 1891  ls
+ 1892  cd wired/HelloScrapy/spiders/
+ 1893  ls
+ 1894  cd MIT/
+ 1895  ls
+ 1896  vim full.txt 
+ 1897  mecab full.txt|grep "名詞"|cut -f 1|sort|uniq -c|sort -r -n > fullm.txt
+ 1898  vim fullm.txt 
+ 1899  mecab full.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n > fullm.txt
+ 1900  vim fullm.txt 
+ 1901  ls
+ 1902  shub deploy
+ 1903  ls
+ 1904  cd wired/HelloScrapy/spiders/
+ 1905  ls
+ 1906  shub deploy
+ 1907  shub login
+ 1908  ls
+ 1909  cd wired/HelloScrapy/spiders/
+ 1910  ls
+ 1911  cd MIT
+ 1912  ls
+ 1913  vim mitjp_p_text2.txt 
+ 1914  cat mitjp_p_text_mecab2.txt | awk printf
+ 1915  cat mitjp_p_text_mecab2.txt | awk '{printf "%-1s,%7s\n",$1,$2}'
+ 1916  cat mitjp_p_text_mecab2.txt | awk '{printf "%-1s,%s\n",$1,$2}'
+ 1917  cat mitjp_p_text_mecab2.txt | awk '{printf "%-s,%s\n",$1,$2}'
+ 1918  cat mitjp_p_text_mecab2.txt | awk '{printf "%s,%s\n",$1,$2}'
+ 1919  cat mitjp_p_text_mecab2.txt | awk '{printf "%-1s,%s\n",$1,$2}'
+ 1920  cat mitjp_p_text_mecab2.txt | awk '{printf "%-1s,%s\n",$1,$2}' > mitjp_p_text_mecab2.csv 
+ 1921  cat mit*.csv
+ 1922  ls
+ 1923  cd wired/HelloScrapy/spiders/
+ 1924  ls
+ 1925  shub login
+ 1926  shub deploy
+ 1927  ls
+ 1928  cd MIT/
+ 1929  ls
+ 1930  jupyter notebook
+ 1931  bq query
+ 1932  pyenv
+ 1933  pyenv which
+ 1934  pyenv shell
+ 1935  pyenv help
+ 1936  pyenv version
+ 1937  pyenv local 2.7.8
+ 1938  pyenv version
+ 1939  bq query
+ 1940  bq ls
+ 1941  gcloud init 
+ 1942  gcloud auth list
+ 1943  bq ls
+ 1944  ls
+ 1945  mecab full.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n > fullm.csv
+ 1946  vim fullm.csv 
+ 1947  jupyter notebook
+ 1948  pyenv local 3.5.2
+ 1949  jupyter notebook
+ 1950  ls
+ 1951  vim fullm.txt 
+ 1952  cat fullm.csv 
+ 1953  sed 's/ /,/g' fullm.csv
+ 1954  sed 's/ /,/g' fullm.csv | sed 's/,,,,,,//g'
+ 1955  cat fullm.csv 
+ 1956  sed 's/ /,/g' fullm.csv | sed 's/,,,,,,//g'
+ 1957  sed 's/ /,/g' fullm.csv | sed 's/,,,,,,//g' > fullm.csv
+ 1958  ls
+ 1959  jupyter notebook
+ 1960  sed 's/ /,/g' fullm.csv | sed 's/,,,,,,//g' > fullm.csv
+ 1961  ls
+ 1962  vim fullm.csv 
+ 1963  cat fullm.csv 
+ 1964  mecab full.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n > fullm.csv
+ 1965  cat fullm.csv 
+ 1966  sed 's/,,,,,,//g' fullm.csv
+ 1967  cat fullm.csv 
+ 1968  jupyter notebook
+ 1969  mecab full.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n > fullm.csv
+ 1970  cat fullm.csv 
+ 1971  sed '1,6d' fullm.csv 
+ 1972  sed 1,6d fullm.csv 
+ 1973  cat fullm.csv 
+ 1974  cat fullm.csv |sed 1,6d
+ 1975  head fullm.csv 
+ 1976  mecab full.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n > fullm.csv
+ 1977  cat fullm.csv 
+ 1978  cut -f2,4 fullm.csv 
+ 1979  cut -c4 fullm.csv 
+ 1980  cut -c4- fullm.csv 
+ 1981  cut -c5- fullm.csv 
+ 1982  cat fullm.csv | awk '{printf "%-20s %7s\n",$1,$2}'
+ 1983  cat fullm.csv | awk '{printf "%-20s %s\n",$1,$2}'
+ 1984  cat fullm.csv | awk '{printf "%-10s %s\n",$1,$2}'
+ 1985  cat fullm.csv | awk '{printf "%-1s %s\n",$1,$2}'
+ 1986  cat fullm.csv | awk '{printf "%-1s,%s\n",$1,$2}'
+ 1987  cat fullm.csv | awk '{printf "%-1s,%s",$1,$2}'
+ 1988  cat fullm.csv | awk '{printf "%-1s,%s\n",$1,$2}'
+ 1989  cat fullm.csv | awk '{printf "%-1s,%s\n",$1,$2}' > fullm.csv
+ 1990  cat fullm.csv 
+ 1991  jupyter notebook
+ 1992  cat fullm.csv 
+ 1993  mecab full.txt|grep "固有名詞"|cut -f 1|sort|uniq -c|sort -r -n > fullm.csv
+ 1994  cat fullm.csv | awk '{printf "%-1s,%s\n",$1,$2}' > fullm.csv
+ 1995  cat fullm.csv 
+ 1996  jupyter notebook
+ 1997  ls
+ 1998  cd wired/
+ 1999  ls
+ 2000  cd HelloScrapy/
+ 2001  ls
+ 2002  cd spiders/
+ 2003  ls
+ 2004  cd MIT/
+ 2005  ls
+ 2006  vim mitjp.py 
+ 2007  mkdir garbage
+ 2008  ls
+ 2009  mv *.txt garbage/
+ 2010  ls
+ 2011  mv *.csv garbage/
+ 2012  ls
+ 2013  history
+ 2014  history > history.txt
+ 2015  ls
+ 2016  vim history.txt 
+ 2017  history -10000 > history.txt
+ 2018  history -5000
+ 2019  history -3000
+ 2020  history -1000
+ 2021  man history
+ 2022  history -1000
+ 2023  man history
+ 2024  history 1000
+ 2025  history 10000 > history.txt
